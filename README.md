@@ -3,4 +3,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/da9a8c6eb0b47402067d/maintainability)](https://codeclimate.com/github/nurguntimofeev/python-project-lvl1/maintainability)
 
 ### Installation and run
-[PUSH & watch how it works](https://asciinema.org/a/N2y9qK40H9hFsFPkXLqPw4DAw)
+[PUSH & watch how it works](https://asciinema.org/a/jPflGPFJIp246LgVKHeWr5u9l)
